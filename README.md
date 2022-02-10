@@ -1,5 +1,4 @@
-# Magazine
-Magazine
+image-community
 
 📃 기능 구현 목록 
  
